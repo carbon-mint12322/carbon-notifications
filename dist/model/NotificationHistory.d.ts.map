@@ -1,0 +1,1 @@
+{"version":3,"file":"NotificationHistory.d.ts","sourceRoot":"","sources":["../../src/model/NotificationHistory.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,EAAE,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAG3C,MAAM,WAAW,oBAAoB;IACjC,yBAAyB,EAAE,KAAK,CAAC,QAAQ,CAAA;IACzC,SAAS,EAAE,MAAM,CAAA;CACpB;AAkBD,eAAO,MAAM,mBAAmB,uDAG/B,CAAC"}
